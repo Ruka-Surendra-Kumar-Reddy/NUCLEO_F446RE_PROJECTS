@@ -1,6 +1,0 @@
-# NUCLEO_F446RE_PROJECTS
-Nucleo F446RE is a development board designed by STMicroelectronics. It is based on the ARM Cortex-M4 32-bit RISC core, and it comes with many on-board peripherals and interfaces such as SPI, I2C, USART, CAN, ADC, DAC, and more. The board is compatible with the Arduino ecosystem, which makes it easy to use and program with the Arduino IDE or other development tools.  
-
-The Nucleo F446RE board is primarily intended for prototyping and testing of microcontroller-based projects. It has a powerful microcontroller that can handle complex applications and real-time processing, making it suitable for a wide range of projects such as robotics, control systems, and IoT devices. Additionally, the board has a built-in ST-LINK/V2-1 debugger and programmer, which makes it easy to debug and program the microcontroller directly from the board.  
-
-The Nucleo F446RE board also comes with a comprehensive software development kit (SDK) that includes a variety of libraries, examples, and tools to help developers get started quickly and easily. This SDK includes drivers for all the on-board peripherals, as well as middleware and examples for popular communication protocols such as Ethernet, USB, and Bluetooth.  
